@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WheatherTask</string>
+    <string name="location">Location</string>
+    <string name="_24_c">24°C</string>
+    <string name="update_time">Update time</string>
+    <string name="description">Description</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet_connection_make_sure_wi_fi_or_cellular_data_is_turned_on_then_try_again">No Internet connection. Make sure WI-FI or cellular data is turned on, then try again.</string>
+</resources>
